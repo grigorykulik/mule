@@ -41,8 +41,6 @@ Price comparison for the following items is supported:
 * Unique relics
 * Cluster jewels
 
-Other items are added 
-
 ## 🛠️ Requirements / Launch
 ### For Windows
 1. Install Python: [Python 3](https://www.python.org/downloads/). During the installation, make sure to check both checkboxes -- the first one says something about admin privivleges, the second one asks you whether you want to add python's executables to the PATH variable.
