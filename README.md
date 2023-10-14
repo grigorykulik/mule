@@ -20,6 +20,9 @@ Items are sorted in the same manner as they are received from poe.ninja's API. T
 
 ALL PRICES IN THE REPORT ARE IN CHAOS ORBS.
 
+Sample output is below:
+![](assets/output.png)
+
 ## ✔️ Supported items
 The script is still under development and shall be considered as an MVP and not as finished product at this stage.
 
